@@ -1,9 +1,9 @@
 # 👋 Merhaba, ben Rana!
 Bilgisayar Mühendisliği öğrencisiyim. 
-Web geliştirme ve veri bilimi alanlarına ilgileniyorum 🚀
+Web geliştirme ve veri bilimi alanlarıyla ilgileniyorum 🚀
 
 ## 🌱 Hakkımda
-- 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+- 🎓 Bartın Üniversştesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim.  
 - 💻 Web tabanlı uygulamalar ve veri bilimi konularında kendimi geliştiriyorum.  
 - 📚 Şu an PHP, MySQL ve Java üzerine projeler yapıyorum.  
 - 🎯 Hedefim: Modern web teknolojileri ile güçlü ve kullanıcı dostu projeler geliştirmek.  
