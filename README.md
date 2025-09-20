@@ -19,5 +19,5 @@ Bilgisayar Mühendisliği öğrencisiyim. Web geliştirme ve veri bilimi alanlar
 
 ## 📫 Bana Ulaş
 - [LinkedIn](https://www.linkedin.com/in/ranaakyuz/)  
-- ✉️ akyuzrana70@gmail.com  
+- ✉akyuzrana70@gmail.com  
 
