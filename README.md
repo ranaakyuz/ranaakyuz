@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Merhaba, ben Rana!
+Bilgisayar Mühendisliği öğrencisiyim. Web geliştirme ve veri bilimi alanlarına ilgim var 🚀
 
-<!--
-**ranaakyuz/ranaakyuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Hakkımda
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+- 💻 Web tabanlı uygulamalar ve veri bilimi konularında kendimi geliştiriyorum.  
+- 📚 Şu an PHP, MySQL ve Java üzerine projeler yapıyorum.  
+- 🎯 Hedefim: Modern web teknolojileri ile güçlü ve kullanıcı dostu projeler geliştirmek.  
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım Teknolojiler
+- Diller: Java, PHP, Python, C#,
+- Web: HTML, CSS, JavaScript, Bootstrap
+- Veritabanı: MySQL
+- Araçlar: Git, GitHub, VS Code, IntelliJ, PhpMyAdmin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciAdin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciAdin&layout=compact&theme=radical)
+
+## 📫 Bana Ulaş
+- [LinkedIn](https://www.linkedin.com/in/ranaakyuz/)  
+- ✉️ akyuzrana70@gmail.com  
+
