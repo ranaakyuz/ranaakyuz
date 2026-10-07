@@ -1,9 +1,9 @@
 # 👋 Merhaba, ben Rana Akyüz!
 
-Bartın Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Karmaşık problemleri modern teknolojilerle çözmeyi seven, sürekli öğrenmeye odaklı bir geliştiriciyim. 🚀
+Bartın Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Karmaşık problemleri modern teknolojilerle çözmeyi seven, sürekli öğrenmeye odaklı bir geliştiriciyim. 🚀
 
 ## 🌱 Hakkımda
-- 🎓 **Eğitim:** Bartın Üniversitesi - Bilgisayar Mühendisliği (3. Sınıf)
+- 🎓 **Eğitim:** Bartın Üniversitesi - Bilgisayar Mühendisliği (4. Sınıf)
 - 💻 **Odak Noktası:** Mobil Uygulama Geliştirme, Web Teknolojileri ve Veri Bilimi.
 - 🛠️ **Şu An Ne Yapıyorum:** - 📱 React Native ile çocuklara yönelik (3-4 yaş) ebeveyn kontrollü mobil uygulama geliştiriyorum.
     - ⚡ STM32 mikrodenetleyiciler ve gömülü sistemler üzerine çalışmalar yapıyorum.
